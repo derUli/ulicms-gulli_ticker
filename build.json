@@ -1,0 +1,8 @@
+{
+   "id" : "gulli_ticker",
+   "version" : "1.0",
+   "description" : "Gulli Ticker Modul für UliCMS - Bindet Sie den Gull Ticker in Ihre Webseite ein.",
+   "categories" : ["tools"],
+   "compatible_from" : "2018.2",
+   "dependencies" : []
+}
